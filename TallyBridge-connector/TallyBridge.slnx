@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TallyBridge.Connector/TallyBridge.Connector.csproj" />
+    <Project Path="src/TallyBridge.Contracts/TallyBridge.Contracts.csproj" />
+    <Project Path="src/TallyBridge.Server/TallyBridge.Server.csproj" />
+  </Folder>
+</Solution>

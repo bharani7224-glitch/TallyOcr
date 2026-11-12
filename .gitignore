@@ -1,0 +1,16 @@
+# Build results & dependencies
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+
+# User-specific & IDE files
+.vscode/
+.idea/
+*.user
+*.suo
+*.log
+
+# Environment files
+.env.local
+.env.*.local

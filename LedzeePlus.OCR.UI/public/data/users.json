@@ -1,0 +1,13 @@
+[
+  {
+    "id": "usr_01",
+    "email": "admin@navanala.com",
+    "password": "Admin@123",
+    "gstin": "33AAACB1234D1Z5",
+    "name": "Admin User",
+    "role": "Chief Accountant",
+    "companyName": "Navanala Tech",
+    "phone": "+91 0000000000"
+  }
+]
+

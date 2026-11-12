@@ -1,0 +1,43 @@
+[
+  {
+    "id": "usr_01",
+    "email": "admin@navanala.com",
+    "password": "Admin@123",
+    "gstin": "33AAACB1234D1Z5",
+    "name": "Admin User",
+    "role": "Chief Accountant",
+    "companyName": "Bharani Tech",
+    "phone": "+91 98765 43210"
+  },
+  {
+    "id": "usr_02",
+    "email": "shrihari@navanala.com",
+    "password": "ShriHari@123",
+    "gstin": "33AAHCS1726K1ZC",
+    "name": "Shri Hari",
+    "role": "Accounts Manager",
+    "companyName": "Shri Hari Process",
+    "phone": "+91 98421 11223"
+  },
+  {
+    "id": "usr_03",
+    "email": "krishna@navanala.com",
+    "password": "Krishna@123",
+    "gstin": "29AAACK7118E1ZK",
+    "name": "Krishna Kumar",
+    "role": "Finance Officer",
+    "companyName": "Krishna Lamicoat Pvt Ltd",
+    "phone": "+91 98652 22800"
+  },
+  {
+    "id": "usr_04",
+    "email": "demo@navanala.com",
+    "password": "Password@123",
+    "gstin": "33ACTFS7709P1Z5",
+    "name": "Demo User",
+    "role": "Accounting Executive",
+    "companyName": "SRI ARUL TEX LLP",
+    "phone": "+91 94433 22110"
+  }
+]
+
